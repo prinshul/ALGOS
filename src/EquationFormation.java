@@ -1,9 +1,9 @@
 
-public class EqualtionFormation {
+public class EquationFormation {
 
 	boolean found;
 	public static void main(String[] args) {
-		EqualtionFormation e=new EqualtionFormation();
+		EquationFormation e=new EquationFormation();
 		e.init();
 		int a[]={2,5,4,5,1,8,7,3};
 		//int a[]={2,5,6,1};
