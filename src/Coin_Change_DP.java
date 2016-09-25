@@ -8,8 +8,8 @@ public class Coin_Change_DP {
 
 	void init()
 	{
-		int coins[]={7,2,3,6};
-		int sum = 13;
+		int coins[]={3,2,4,6};
+		int sum = 6;
 		findCoins(coins, sum);
 	}
 	void findCoins(int coins[],int sum)
